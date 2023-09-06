@@ -1,4 +1,4 @@
-### Hi there, my name is Adrija
+<h1 align="center">👋 Hi there, my name is Adrija</h1>
 
 - 👩‍💻 I’m a Master's student at Arizona State University studying Computer Science
 - 🎓 I'm expected to graduate in June 2024
